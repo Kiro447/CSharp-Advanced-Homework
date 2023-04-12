@@ -1,0 +1,15 @@
+E:\CSharp-Advanced-Homework\CSharp-Advanced-Homework\Homework-Three\Homework-Three\obj\Debug\net6.0\Homework-Three.csproj.AssemblyReference.cache
+E:\CSharp-Advanced-Homework\CSharp-Advanced-Homework\Homework-Three\Homework-Three\obj\Debug\net6.0\Homework-Three.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp-Advanced-Homework\CSharp-Advanced-Homework\Homework-Three\Homework-Three\obj\Debug\net6.0\Homework-Three.AssemblyInfoInputs.cache
+E:\CSharp-Advanced-Homework\CSharp-Advanced-Homework\Homework-Three\Homework-Three\obj\Debug\net6.0\Homework-Three.AssemblyInfo.cs
+E:\CSharp-Advanced-Homework\CSharp-Advanced-Homework\Homework-Three\Homework-Three\obj\Debug\net6.0\Homework-Three.csproj.CoreCompileInputs.cache
+E:\CSharp-Advanced-Homework\CSharp-Advanced-Homework\Homework-Three\Homework-Three\bin\Debug\net6.0\Homework-Three.exe
+E:\CSharp-Advanced-Homework\CSharp-Advanced-Homework\Homework-Three\Homework-Three\bin\Debug\net6.0\Homework-Three.deps.json
+E:\CSharp-Advanced-Homework\CSharp-Advanced-Homework\Homework-Three\Homework-Three\bin\Debug\net6.0\Homework-Three.runtimeconfig.json
+E:\CSharp-Advanced-Homework\CSharp-Advanced-Homework\Homework-Three\Homework-Three\bin\Debug\net6.0\Homework-Three.dll
+E:\CSharp-Advanced-Homework\CSharp-Advanced-Homework\Homework-Three\Homework-Three\bin\Debug\net6.0\Homework-Three.pdb
+E:\CSharp-Advanced-Homework\CSharp-Advanced-Homework\Homework-Three\Homework-Three\obj\Debug\net6.0\Homework-Three.dll
+E:\CSharp-Advanced-Homework\CSharp-Advanced-Homework\Homework-Three\Homework-Three\obj\Debug\net6.0\refint\Homework-Three.dll
+E:\CSharp-Advanced-Homework\CSharp-Advanced-Homework\Homework-Three\Homework-Three\obj\Debug\net6.0\Homework-Three.pdb
+E:\CSharp-Advanced-Homework\CSharp-Advanced-Homework\Homework-Three\Homework-Three\obj\Debug\net6.0\Homework-Three.genruntimeconfig.cache
+E:\CSharp-Advanced-Homework\CSharp-Advanced-Homework\Homework-Three\Homework-Three\obj\Debug\net6.0\ref\Homework-Three.dll
