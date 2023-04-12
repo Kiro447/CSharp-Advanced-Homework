@@ -22,9 +22,7 @@ namespace Homework_Two.Entities
             BatchNumber = batchNumber;
         }
 
-        public virtual void PrintVehicle()
-        {
-            Console.WriteLine($"ID: {Id} , Car type: {Type} , Year of procuction {YearOfProduction.Year}");
-        }
+        public abstract void PrintVehicle();
+
     }
 }
