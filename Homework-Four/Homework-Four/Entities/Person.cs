@@ -14,7 +14,4 @@ public class Person
         Age = age;
         ListOfDogs = listOfDogs;
     }
-
-
-
 }

@@ -1,0 +1,17 @@
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Five\Homework-Five\bin\Debug\net6.0\Homework-Five.exe
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Five\Homework-Five\bin\Debug\net6.0\Homework-Five.deps.json
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Five\Homework-Five\bin\Debug\net6.0\Homework-Five.runtimeconfig.json
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Five\Homework-Five\bin\Debug\net6.0\Homework-Five.dll
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Five\Homework-Five\bin\Debug\net6.0\Homework-Five.pdb
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Five\Homework-Five\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Five\Homework-Five\obj\Debug\net6.0\Homework-Five.csproj.AssemblyReference.cache
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Five\Homework-Five\obj\Debug\net6.0\Homework-Five.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Five\Homework-Five\obj\Debug\net6.0\Homework-Five.AssemblyInfoInputs.cache
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Five\Homework-Five\obj\Debug\net6.0\Homework-Five.AssemblyInfo.cs
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Five\Homework-Five\obj\Debug\net6.0\Homework-Five.csproj.CoreCompileInputs.cache
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Five\Homework-Five\obj\Debug\net6.0\Homework-Five.csproj.CopyComplete
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Five\Homework-Five\obj\Debug\net6.0\Homework-Five.dll
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Five\Homework-Five\obj\Debug\net6.0\refint\Homework-Five.dll
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Five\Homework-Five\obj\Debug\net6.0\Homework-Five.pdb
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Five\Homework-Five\obj\Debug\net6.0\Homework-Five.genruntimeconfig.cache
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Five\Homework-Five\obj\Debug\net6.0\ref\Homework-Five.dll
