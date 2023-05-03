@@ -1,0 +1,15 @@
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Four\Homework-Four\bin\Debug\net6.0\Homework-Four.exe
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Four\Homework-Four\bin\Debug\net6.0\Homework-Four.deps.json
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Four\Homework-Four\bin\Debug\net6.0\Homework-Four.runtimeconfig.json
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Four\Homework-Four\bin\Debug\net6.0\Homework-Four.dll
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Four\Homework-Four\bin\Debug\net6.0\Homework-Four.pdb
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Four\Homework-Four\obj\Debug\net6.0\Homework-Four.csproj.AssemblyReference.cache
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Four\Homework-Four\obj\Debug\net6.0\Homework-Four.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Four\Homework-Four\obj\Debug\net6.0\Homework-Four.AssemblyInfoInputs.cache
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Four\Homework-Four\obj\Debug\net6.0\Homework-Four.AssemblyInfo.cs
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Four\Homework-Four\obj\Debug\net6.0\Homework-Four.csproj.CoreCompileInputs.cache
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Four\Homework-Four\obj\Debug\net6.0\Homework-Four.dll
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Four\Homework-Four\obj\Debug\net6.0\refint\Homework-Four.dll
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Four\Homework-Four\obj\Debug\net6.0\Homework-Four.pdb
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Four\Homework-Four\obj\Debug\net6.0\Homework-Four.genruntimeconfig.cache
+C:\Users\kjordanov\Documents\SEDC HOmeworks\CSharp-Advanced-Homework\Homework-Four\Homework-Four\obj\Debug\net6.0\ref\Homework-Four.dll
